@@ -9,18 +9,6 @@ It utilizes the following APIs:
 * Cloudinary - For hosting radar images to reduce API calls.
 
 
-### Live Test
-
-This code is currently being hosted on a Linux VM and is freely available for testing
-until the Twilio funds run out.
-
-Send a message to **(770) 212-2053** to try it out!
-
-If the service does not respond, that may mean I'm working on the code, so try again later.
-If repeated attempts fail to issue a response, that probably means I have run out of API calls,
-and it is questionable if or when the service will be available again.
-
-
 ### Usage
 
 Before using this code, add the necessary API keys to "config-example.py" and then rename the
